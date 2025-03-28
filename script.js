@@ -4,7 +4,6 @@ const respostas = {
     "internet": "Para ganhar dinheiro online, explore áreas como criação de conteúdo (YouTube, blogs), vendas (e-commerce, dropshipping) e freelancing (design, escrita, programação). Plataformas como cursos, consultoria e investimentos digitais também são populares e rentáveis.",
     "empresa": "Para dar os primeiros passos com sua empresa, comece com um plano de negócios claro, defina seu público-alvo e registre legalmente o negócio. Em seguida, desenvolva sua marca, crie uma presença online e busque financiamento, se necessário.",
     "Muito obrigado": "De nada, estou aqui para te ajudar"
-    "cu": "vai tu seu trouxa"
 };
 
 
